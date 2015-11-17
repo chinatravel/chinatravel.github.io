@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://chinatravel.github.io
+title: China Travel Guide
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 10
